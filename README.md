@@ -7,9 +7,7 @@ This is a simple bank application written in Java that utilizes JDBC, Servlets, 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
